@@ -1,7 +1,7 @@
 <h1>Fauxica website</h1>
 <h2>A website to display fashionable clothing</h2>
-<h2>Link  to the website</h2><a href="https://ibz11.github.io/ibz11.fashion.github.io/">https://ibz11.github.io/ibz11.fashion.github.io/</a>
-<!-- 
+<h2>Link  to the website</h2><a href="https://ibz11.github.io/fauxica/">https://ibz11.github.io/fauxica/</a>
+
 <h2>Home </h2>
 
 ![image](https://github.com/ibz11/ibz11.fashion.github.io/assets/90426909/824cfaa6-18c3-4087-aded-32217075f1f9)
@@ -18,7 +18,7 @@
 
 ![image](https://github.com/ibz11/ibz11.fashion.github.io/assets/90426909/2b70d18f-a84b-4d01-ac6c-9d1ea67c912c)
 
-![image](https://github.com/ibz11/ibz11.fashion.github.io/assets/90426909/15fc905e-8f45-4dfc-bf64-1fa28a63466b) -->
+![image](https://github.com/ibz11/ibz11.fashion.github.io/assets/90426909/15fc905e-8f45-4dfc-bf64-1fa28a63466b)
 
 
 
